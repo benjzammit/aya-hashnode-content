@@ -1,10 +1,10 @@
 ---
-title: Synthetic Audiences vs Surveys: Which One Should You Use?
-slug: synthetic-audiences-vs-surveys
-tags: synthetic-audiences, surveys, market-research, audience-research, ai-research
-domain: aya-blog.hashnode.dev
-seoTitle: Synthetic Audiences vs Surveys: Which One Should You Use?
-seoDescription: Synthetic audiences and surveys answer different questions. Here is how they compare on speed, scale, depth, directionality, and where each method fits best.
+title: "Synthetic Audiences vs Surveys: Which One Should You Use?"
+slug: "synthetic-audiences-vs-surveys"
+tags: "survey, research, marketing, analytics, ai"
+domain: "aya-blog.hashnode.dev"
+seoTitle: "Synthetic Audiences vs Surveys: Which One Should You Use?"
+seoDescription: "Synthetic audiences and surveys answer different questions. Here is how they compare on speed, scale, depth, directionality, and where each method fits best."
 saveAsDraft: true
 ---
 ![Hands reviewing survey charts and a laptop during a planning session.](https://images.pexels.com/photos/6248972/pexels-photo-6248972.jpeg?auto=compress&cs=tinysrgb&w=1600)

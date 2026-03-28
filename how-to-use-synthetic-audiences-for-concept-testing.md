@@ -1,10 +1,10 @@
 ---
-title: How to Use Synthetic Audiences for Concept Testing
-slug: how-to-use-synthetic-audiences-for-concept-testing
-tags: concept-testing, synthetic-audiences, product-marketing, audience-research, innovation
-domain: aya-blog.hashnode.dev
-seoTitle: How to Use Synthetic Audiences for Concept Testing
-seoDescription: Synthetic audiences can help teams explore concept reactions earlier and improve ideas before bigger research or launch decisions. Here is a practical concept-testing workflow.
+title: "How to Use Synthetic Audiences for Concept Testing"
+slug: "how-to-use-synthetic-audiences-for-concept-testing"
+tags: "product, marketing, research, analytics, ai"
+domain: "aya-blog.hashnode.dev"
+seoTitle: "How to Use Synthetic Audiences for Concept Testing"
+seoDescription: "Synthetic audiences can help teams explore concept reactions earlier and improve ideas before bigger research or launch decisions. Here is a practical concept-testing workflow."
 saveAsDraft: true
 ---
 ![A concept planning desk with sticky notes, sketches, and testing materials.](https://images.pexels.com/photos/15543110/pexels-photo-15543110.jpeg?auto=compress&cs=tinysrgb&w=1600)

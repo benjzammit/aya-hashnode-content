@@ -1,10 +1,10 @@
 ---
-title: What Is AI-Native Research?
-slug: what-is-ai-native-research
-tags: ai-native-research, market-research, synthetic-audiences, audience-modeling, ai-research
-domain: aya-blog.hashnode.dev
-seoTitle: What Is AI-Native Research?
-seoDescription: AI-native research uses AI as part of the research workflow itself, not just as a writing tool. Here is what the term means, how it works, and where it fits.
+title: "What Is AI-Native Research?"
+slug: "what-is-ai-native-research"
+tags: "ai, artificial-intelligence, research, analytics, product"
+domain: "aya-blog.hashnode.dev"
+seoTitle: "What Is AI-Native Research?"
+seoDescription: "AI-native research uses AI as part of the research workflow itself, not just as a writing tool. Here is what the term means, how it works, and where it fits."
 saveAsDraft: true
 ---
 ![A modern AI work setup with screens, laptop, and strategic planning materials.](https://images.pexels.com/photos/35335987/pexels-photo-35335987.jpeg?auto=compress&cs=tinysrgb&w=1600)

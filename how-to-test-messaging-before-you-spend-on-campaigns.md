@@ -1,10 +1,10 @@
 ---
-title: How to Test Messaging Before You Spend on Campaigns
-slug: how-to-test-messaging-before-you-spend-on-campaigns
-tags: messaging-testing, campaign-strategy, synthetic-audiences, marketing-research, concept-testing
-domain: aya-blog.hashnode.dev
-seoTitle: How to Test Messaging Before You Spend on Campaigns
-seoDescription: Before you invest in campaign production or media spend, test your messaging. Here is a practical way to pressure-test ideas using synthetic audiences and faster research workflows.
+title: "How to Test Messaging Before You Spend on Campaigns"
+slug: "how-to-test-messaging-before-you-spend-on-campaigns"
+tags: "marketing, branding, research, analytics, ai"
+domain: "aya-blog.hashnode.dev"
+seoTitle: "How to Test Messaging Before You Spend on Campaigns"
+seoDescription: "Before you invest in campaign production or media spend, test your messaging. Here is a practical way to pressure-test ideas using synthetic audiences and faster research workflows."
 saveAsDraft: true
 ---
 ![An organized workspace with hashtag campaign materials and colorful sticky notes.](https://images.pexels.com/photos/15635400/pexels-photo-15635400.jpeg?cs=srgb&dl=pexels-walls-io-440716388-15635400.jpg&fm=jpg)
