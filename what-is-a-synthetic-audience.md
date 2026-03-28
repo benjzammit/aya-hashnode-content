@@ -5,6 +5,7 @@ tags: synthetic-audiences, market-research, audience-research, ai-research, cons
 domain: aya-blog.hashnode.dev
 seoTitle: What Is a Synthetic Audience?
 seoDescription: A synthetic audience is a modeled representation of real audience types used to test ideas, messaging, and concepts faster. Here is what it is, how it works, and where it helps.
+saveAsDraft: true
 ---
 ![A diverse team holds a collaborative meeting in a modern office setting.](https://images.pexels.com/photos/7495287/pexels-photo-7495287.jpeg?cs=srgb&dl=pexels-moe-magners-7495287.jpg&fm=jpg)
 

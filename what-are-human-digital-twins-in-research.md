@@ -5,6 +5,7 @@ tags: human-digital-twins, digital-twins, synthetic-audiences, ai-market-researc
 domain: aya-blog.hashnode.dev
 seoTitle: What Are Human Digital Twins in Research?
 seoDescription: Human digital twins are modeled audience representations used to explore reactions, compare ideas, and support faster research workflows. Here is what the term means in practice.
+saveAsDraft: true
 ---
 ![A sleek modern conference room with a whiteboard and collaborative workspace setup.](https://images.pexels.com/photos/34823909/pexels-photo-34823909.jpeg?cs=srgb&dl=pexels-ranamatloob567-34823909.jpg&fm=jpg)
 

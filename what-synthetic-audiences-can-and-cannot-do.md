@@ -5,6 +5,7 @@ tags: synthetic-audiences, market-research, ai-research, consumer-insights, rese
 domain: aya-blog.hashnode.dev
 seoTitle: What Synthetic Audiences Can and Cannot Do
 seoDescription: Synthetic audiences can help teams test messaging, explore concepts, and learn faster. Here is where they add value, where they fall short, and how to use them responsibly.
+saveAsDraft: true
 ---
 ![A team collaborates around laptops in a bright strategy session.](https://images.pexels.com/photos/3184293/pexels-photo-3184293.jpeg?auto=compress&cs=tinysrgb&w=1600)
 

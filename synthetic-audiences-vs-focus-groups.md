@@ -5,6 +5,7 @@ tags: synthetic-audiences, focus-groups, market-research, qualitative-research, 
 domain: aya-blog.hashnode.dev
 seoTitle: Synthetic Audiences vs Focus Groups: What Each Is Good For
 seoDescription: Synthetic audiences and focus groups solve different problems. Here is how they compare on speed, cost, depth, flexibility, and where each method fits best.
+saveAsDraft: true
 ---
 ![A collaborative team meeting around a conference table with laptops and notes.](https://images.pexels.com/photos/17713876/pexels-photo-17713876.jpeg?cs=srgb&dl=pexels-walls-io-440716388-17713876.jpg&fm=jpg)
 
