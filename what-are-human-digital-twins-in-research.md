@@ -184,9 +184,9 @@ The win is to make the concept legible, useful, and commercially relevant.
 
 ## Related reading
 
-- [What Is a Synthetic Audience?](/what-is-a-synthetic-audience)
-- [What Is AI-Native Research?](/what-is-ai-native-research)
-- [What Synthetic Audiences Can and Cannot Do](/what-synthetic-audiences-can-and-cannot-do)
+- [What Is a Synthetic Audience?](/resources/what-is-a-synthetic-audience)
+- [What Is AI-Native Research?](/resources/what-is-ai-native-research)
+- [What Synthetic Audiences Can and Cannot Do](/resources/what-synthetic-audiences-can-and-cannot-do)
 
 ## Want to explore this in practice?
 

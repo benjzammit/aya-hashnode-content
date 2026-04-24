@@ -206,10 +206,10 @@ That is the practical promise of AI-native research workflows: faster learning, 
 
 ## Related reading
 
-- [What Is a Synthetic Audience?](/what-is-a-synthetic-audience)
-- [What Synthetic Audiences Can and Cannot Do](/what-synthetic-audiences-can-and-cannot-do)
-- [How to Use Synthetic Audiences for Concept Testing](/how-to-use-synthetic-audiences-for-concept-testing)
-- [Synthetic Audiences vs Focus Groups: What Each Is Good For](/synthetic-audiences-vs-focus-groups)
+- [What Is a Synthetic Audience?](/resources/what-is-a-synthetic-audience)
+- [What Synthetic Audiences Can and Cannot Do](/resources/what-synthetic-audiences-can-and-cannot-do)
+- [How to Use Synthetic Audiences for Concept Testing](/resources/how-to-use-synthetic-audiences-for-concept-testing)
+- [Synthetic Audiences vs Focus Groups: What Each Is Good For](/resources/synthetic-audiences-vs-focus-groups)
 
 ## Want to explore this in practice?
 

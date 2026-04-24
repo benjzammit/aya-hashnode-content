@@ -140,10 +140,10 @@ That is the standard worth using.
 
 ## Related reading
 
-- [What Is a Synthetic Audience?](/what-is-a-synthetic-audience)
-- [What Are Human Digital Twins in Research?](/what-are-human-digital-twins-in-research)
-- [How to Use Synthetic Audiences for Concept Testing](/how-to-use-synthetic-audiences-for-concept-testing)
-- [What Synthetic Audiences Can and Cannot Do](/what-synthetic-audiences-can-and-cannot-do)
+- [What Is a Synthetic Audience?](/resources/what-is-a-synthetic-audience)
+- [What Are Human Digital Twins in Research?](/resources/what-are-human-digital-twins-in-research)
+- [How to Use Synthetic Audiences for Concept Testing](/resources/how-to-use-synthetic-audiences-for-concept-testing)
+- [What Synthetic Audiences Can and Cannot Do](/resources/what-synthetic-audiences-can-and-cannot-do)
 
 ## Want to explore this in practice?
 

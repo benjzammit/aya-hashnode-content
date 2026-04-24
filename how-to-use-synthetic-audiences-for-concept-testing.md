@@ -138,10 +138,10 @@ That is what better concept testing should do.
 
 ## Related reading
 
-- [What Is a Synthetic Audience?](/what-is-a-synthetic-audience)
-- [How to Test Messaging Before You Spend on Campaigns](/how-to-test-messaging-before-you-spend-on-campaigns)
-- [What Synthetic Audiences Can and Cannot Do](/what-synthetic-audiences-can-and-cannot-do)
-- [Synthetic Audiences vs Surveys: Which One Should You Use?](/synthetic-audiences-vs-surveys)
+- [What Is a Synthetic Audience?](/resources/what-is-a-synthetic-audience)
+- [How to Test Messaging Before You Spend on Campaigns](/resources/how-to-test-messaging-before-you-spend-on-campaigns)
+- [What Synthetic Audiences Can and Cannot Do](/resources/what-synthetic-audiences-can-and-cannot-do)
+- [Synthetic Audiences vs Surveys: Which One Should You Use?](/resources/synthetic-audiences-vs-surveys)
 
 ## Want to explore this in practice?
 

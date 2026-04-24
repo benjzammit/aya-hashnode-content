@@ -153,10 +153,10 @@ It is synthetic audiences before surveys.
 
 ## Related reading
 
-- [What Is a Synthetic Audience?](/what-is-a-synthetic-audience)
-- [Synthetic Audiences vs Focus Groups: What Each Is Good For](/synthetic-audiences-vs-focus-groups)
-- [What Synthetic Audiences Can and Cannot Do](/what-synthetic-audiences-can-and-cannot-do)
-- [How to Use Synthetic Audiences for Concept Testing](/how-to-use-synthetic-audiences-for-concept-testing)
+- [What Is a Synthetic Audience?](/resources/what-is-a-synthetic-audience)
+- [Synthetic Audiences vs Focus Groups: What Each Is Good For](/resources/synthetic-audiences-vs-focus-groups)
+- [What Synthetic Audiences Can and Cannot Do](/resources/what-synthetic-audiences-can-and-cannot-do)
+- [How to Use Synthetic Audiences for Concept Testing](/resources/how-to-use-synthetic-audiences-for-concept-testing)
 
 ## Want to explore this in practice?
 
