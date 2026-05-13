@@ -5,7 +5,7 @@ tags: "ai, research, marketing, analytics, product"
 domain: "aya-blog.hashnode.dev"
 seoTitle: "Are AI Focus Groups Accurate?"
 seoDescription: "AI focus groups can support faster directional learning, but they should not be treated as guaranteed market truth. Here is how to use them responsibly."
-saveAsDraft: true
+saveAsDraft: false
 ---
 ![A laptop displays charts while a team reviews research material on a desk.](https://images.pexels.com/photos/7948005/pexels-photo-7948005.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
