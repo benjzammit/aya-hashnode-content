@@ -5,7 +5,7 @@ tags: "ai, research, marketing, analytics, product"
 domain: "aya-blog.hashnode.dev"
 seoTitle: "What Is an AI Focus Group?"
 seoDescription: "An AI focus group uses modeled audience participants to explore likely reactions to ideas, messages, products, or campaigns before heavier research or launch decisions."
-saveAsDraft: true
+saveAsDraft: false
 ---
 ![A research team reviews audience ideas on sticky notes during a planning session.](https://images.pexels.com/photos/6177653/pexels-photo-6177653.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
