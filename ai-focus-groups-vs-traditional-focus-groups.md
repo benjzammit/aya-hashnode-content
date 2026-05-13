@@ -5,7 +5,7 @@ tags: "ai, research, marketing, analytics, product"
 domain: "aya-blog.hashnode.dev"
 seoTitle: "AI Focus Groups vs Traditional Focus Groups"
 seoDescription: "AI focus groups and traditional focus groups solve different research problems. Here is how to use each method responsibly and when one should come before the other."
-saveAsDraft: true
+saveAsDraft: false
 ---
 ![A focused group discussion in a professional research meeting setting.](https://images.pexels.com/photos/34023025/pexels-photo-34023025.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
