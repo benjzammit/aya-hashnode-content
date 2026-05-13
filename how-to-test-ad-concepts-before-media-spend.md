@@ -7,9 +7,9 @@ seoTitle: "How to Test Ad Concepts Before Media Spend"
 seoDescription: "Ad concepts should be pressure-tested before production and media spend. Here is how to compare routes, spot weak claims, and improve the strongest ideas."
 saveAsDraft: true
 ---
-![Campaign notes and creative planning materials are spread across a desk.](https://images.pexels.com/photos/15635400/pexels-photo-15635400.jpeg?cs=srgb&dl=pexels-walls-io-440716388-15635400.jpg&fm=jpg)
+![A campaign planning workspace with a laptop, sticky notes, and notebooks.](https://images.pexels.com/photos/7278606/pexels-photo-7278606.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
-*Photo by [Walls.io on Pexels](https://www.pexels.com/photo/hashtag-campaign-text-on-desk-15635400/).*
+*Photo via [Pexels](https://www.pexels.com/photo/sticky-notes-and-a-laptop-7278606/).*
 
 Ad concepts should be pressure-tested before production and media spend.
 

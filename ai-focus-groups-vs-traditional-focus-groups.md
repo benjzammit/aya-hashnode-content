@@ -7,9 +7,9 @@ seoTitle: "AI Focus Groups vs Traditional Focus Groups"
 seoDescription: "AI focus groups and traditional focus groups solve different research problems. Here is how to use each method responsibly and when one should come before the other."
 saveAsDraft: true
 ---
-![People discuss ideas around a table during a focused research workshop.](https://images.pexels.com/photos/3184293/pexels-photo-3184293.jpeg?auto=compress&cs=tinysrgb&w=1600)
+![A focused group discussion in a professional research meeting setting.](https://images.pexels.com/photos/34023025/pexels-photo-34023025.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
-*Photo via [Pexels](https://www.pexels.com/photo/3184293/).*
+*Photo via [Pexels](https://www.pexels.com/photo/focused-participants-in-a-group-meeting-setting-34023025/).*
 
 AI focus groups and traditional focus groups solve different problems. The short answer is that AI focus groups are useful for faster directional learning, while traditional focus groups are useful when you need direct human discussion, live moderation, and deeper context.
 

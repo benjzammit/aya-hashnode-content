@@ -86,6 +86,8 @@ Then evaluate each route against the same criteria.
 
 This creates a clearer basis for recommendation than a debate about which idea the team likes most.
 
+For example, a UK agency pitching a challenger brand could compare a proof-led route, an emotional route, and a price-friction route before deciding which story deserves the most client attention.
+
 ## What AI focus groups can add
 
 AI focus groups can help agencies explore likely reactions quickly.

@@ -9,7 +9,7 @@ saveAsDraft: true
 ---
 ![A person reviews research notes and customer profiles during a planning session.](https://images.pexels.com/photos/669622/pexels-photo-669622.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
-*Photo by [Lukas on Pexels](https://www.pexels.com/photo/analytics-text-185576/).*
+*Photo via [Pexels](https://www.pexels.com/photo/669622/).*
 
 Synthetic respondents are modeled audience participants used to explore likely reactions to ideas, messages, concepts, products, or campaigns.
 

@@ -139,6 +139,8 @@ That is what better concept testing should do.
 ## Related reading
 
 - [What Is a Synthetic Audience?](/resources/what-is-a-synthetic-audience)
+- [How to Test a Product Idea Before You Build It](/resources/how-to-test-a-product-idea-before-you-build-it)
+- [Concept Testing Template: How to Compare Ideas Before Launch](/resources/concept-testing-template)
 - [How to Test Messaging Before You Spend on Campaigns](/resources/how-to-test-messaging-before-you-spend-on-campaigns)
 - [What Synthetic Audiences Can and Cannot Do](/resources/what-synthetic-audiences-can-and-cannot-do)
 - [Synthetic Audiences vs Surveys: Which One Should You Use?](/resources/synthetic-audiences-vs-surveys)

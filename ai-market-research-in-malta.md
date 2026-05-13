@@ -64,6 +64,8 @@ For an agency, it might mean comparing campaign routes before presenting to a cl
 
 For an SME, it might mean testing whether a new service offer is clear enough before launch.
 
+For example, a Malta tourism business could compare three offer messages before producing campaign assets, while a local fintech team could test whether customers understand a new onboarding promise before asking for deeper human feedback.
+
 ## The right role for AI research
 
 AI market research should be used as an early learning layer.

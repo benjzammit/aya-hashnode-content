@@ -7,9 +7,9 @@ seoTitle: "How to Test a Product Idea Before You Build It"
 seoDescription: "Before you build a product idea, pressure-test the audience, problem, value proposition, and likely objections. Here is a practical early-stage testing workflow."
 saveAsDraft: true
 ---
-![A product team reviews sketches, notes, and prototype ideas on a desk.](https://images.pexels.com/photos/15543110/pexels-photo-15543110.jpeg?auto=compress&cs=tinysrgb&w=1600)
+![A person writes on sticky notes while planning an early product idea.](https://images.pexels.com/photos/7429465/pexels-photo-7429465.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
-*Photo via [Pexels](https://www.pexels.com/photo/15543110/).*
+*Photo via [Pexels](https://www.pexels.com/photo/person-writing-on-a-sticky-note-7429465/).*
 
 Before you build a product idea, test the audience, problem, value proposition, likely objections, and alternatives.
 

@@ -9,7 +9,7 @@ saveAsDraft: true
 ---
 ![A laptop displays charts while a team reviews research material on a desk.](https://images.pexels.com/photos/7948005/pexels-photo-7948005.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
-*Photo by [Lukas on Pexels](https://www.pexels.com/photo/person-pointing-paper-line-graph-with-pen-590020/).*
+*Photo via [Pexels](https://www.pexels.com/photo/7948005/).*
 
 AI focus groups can be useful, but they are not accurate in the same way a well-designed survey, live interview, or market experiment can be accurate.
 

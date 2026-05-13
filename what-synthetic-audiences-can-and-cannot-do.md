@@ -148,6 +148,8 @@ They are the ones looking for a better way to reduce avoidable guesswork.
 
 - [What Is a Synthetic Audience?](/resources/what-is-a-synthetic-audience)
 - [What Are Human Digital Twins in Research?](/resources/what-are-human-digital-twins-in-research)
+- [Are AI Focus Groups Accurate?](/resources/are-ai-focus-groups-accurate)
+- [GDPR-Friendly AI Market Research: What EU Teams Should Check](/resources/gdpr-friendly-ai-market-research)
 - [How to Test Messaging Before You Spend on Campaigns](/resources/how-to-test-messaging-before-you-spend-on-campaigns)
 - [How to Use Synthetic Audiences for Concept Testing](/resources/how-to-use-synthetic-audiences-for-concept-testing)
 
