@@ -5,7 +5,7 @@ tags: "ai, research, marketing, analytics, product"
 domain: "aya-blog.hashnode.dev"
 seoTitle: "How to Test Ad Concepts Before Media Spend"
 seoDescription: "Ad concepts should be pressure-tested before production and media spend. Here is how to compare routes, spot weak claims, and improve the strongest ideas."
-saveAsDraft: true
+saveAsDraft: false
 ---
 ![A campaign planning workspace with a laptop, sticky notes, and notebooks.](https://images.pexels.com/photos/7278606/pexels-photo-7278606.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
