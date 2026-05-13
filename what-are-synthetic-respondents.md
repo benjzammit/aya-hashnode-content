@@ -5,7 +5,7 @@ tags: "ai, research, marketing, analytics, product"
 domain: "aya-blog.hashnode.dev"
 seoTitle: "What Are Synthetic Respondents?"
 seoDescription: "Synthetic respondents are modeled audience participants used to explore likely reactions to ideas, messages, or concepts. Here is what they are and where they fit."
-saveAsDraft: true
+saveAsDraft: false
 ---
 ![A person reviews research notes and customer profiles during a planning session.](https://images.pexels.com/photos/669622/pexels-photo-669622.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
