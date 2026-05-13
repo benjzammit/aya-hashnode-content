@@ -5,7 +5,7 @@ tags: "ai, research, marketing, analytics, product"
 domain: "aya-blog.hashnode.dev"
 seoTitle: "How to Test a Product Idea Before You Build It"
 seoDescription: "Before you build a product idea, pressure-test the audience, problem, value proposition, and likely objections. Here is a practical early-stage testing workflow."
-saveAsDraft: true
+saveAsDraft: false
 ---
 ![A person writes on sticky notes while planning an early product idea.](https://images.pexels.com/photos/7429465/pexels-photo-7429465.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
