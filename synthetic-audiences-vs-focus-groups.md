@@ -209,6 +209,9 @@ The smartest research strategy is not about choosing a side. It is about buildin
 ## Related reading
 
 - [What Is a Synthetic Audience?](/resources/what-is-a-synthetic-audience)
+- [What Is an AI Focus Group?](/resources/what-is-an-ai-focus-group)
+- [AI Focus Groups vs Traditional Focus Groups](/resources/ai-focus-groups-vs-traditional-focus-groups)
+- [Are AI Focus Groups Accurate?](/resources/are-ai-focus-groups-accurate)
 - [What Synthetic Audiences Can and Cannot Do](/resources/what-synthetic-audiences-can-and-cannot-do)
 - [Synthetic Audiences vs Surveys: Which One Should You Use?](/resources/synthetic-audiences-vs-surveys)
 - [How to Test Messaging Before You Spend on Campaigns](/resources/how-to-test-messaging-before-you-spend-on-campaigns)

@@ -182,6 +182,9 @@ The goal is to reduce avoidable guesswork.
 ## Related reading
 
 - [What Are Human Digital Twins in Research?](/resources/what-are-human-digital-twins-in-research)
+- [What Are Synthetic Respondents?](/resources/what-are-synthetic-respondents)
+- [Synthetic Respondents vs Synthetic Audiences: What Is the Difference?](/resources/synthetic-respondents-vs-synthetic-audiences)
+- [What Is an AI Focus Group?](/resources/what-is-an-ai-focus-group)
 - [What Synthetic Audiences Can and Cannot Do](/resources/what-synthetic-audiences-can-and-cannot-do)
 - [Synthetic Audiences vs Focus Groups: What Each Is Good For](/resources/synthetic-audiences-vs-focus-groups)
 - [How to Test Messaging Before You Spend on Campaigns](/resources/how-to-test-messaging-before-you-spend-on-campaigns)
