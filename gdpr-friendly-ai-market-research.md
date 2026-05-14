@@ -5,7 +5,7 @@ tags: "ai, research, marketing, analytics, product"
 domain: "aya-blog.hashnode.dev"
 seoTitle: "GDPR-Friendly AI Market Research"
 seoDescription: "EU teams using AI market research should be clear about data, privacy, audience modeling, and where human validation is still required."
-saveAsDraft: true
+saveAsDraft: false
 ---
 ![A secure data workflow is shown on a laptop during a privacy-focused work session.](https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=1600)
 

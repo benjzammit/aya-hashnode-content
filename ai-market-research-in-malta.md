@@ -5,7 +5,7 @@ tags: "ai, research, marketing, analytics, product"
 domain: "aya-blog.hashnode.dev"
 seoTitle: "AI Market Research in Malta"
 seoDescription: "AI market research can help Malta startups, SMEs and agencies test ideas, messages, and concepts before spending more on production or launch."
-saveAsDraft: true
+saveAsDraft: false
 ---
 ![A view of Malta's historic city streets and business district context.](https://images.pexels.com/photos/19825336/pexels-photo-19825336.jpeg?auto=compress&cs=tinysrgb&w=1600)
 

@@ -5,7 +5,7 @@ tags: "ai, research, marketing, analytics, product"
 domain: "aya-blog.hashnode.dev"
 seoTitle: "Synthetic Respondents vs Synthetic Audiences"
 seoDescription: "Synthetic respondents and synthetic audiences are closely related, but they are not exactly the same. Here is the practical difference for research teams."
-saveAsDraft: true
+saveAsDraft: false
 ---
 ![A team organizes audience research notes across a table during a workshop.](https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1600)
 

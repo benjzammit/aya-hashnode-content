@@ -5,7 +5,7 @@ tags: "ai, research, marketing, analytics, product"
 domain: "aya-blog.hashnode.dev"
 seoTitle: "Concept Testing Template"
 seoDescription: "Use this concept testing template to compare ideas, spot likely objections, and improve the strongest route before launch."
-saveAsDraft: true
+saveAsDraft: false
 ---
 ![A planning worksheet, notebook, and laptop are arranged for a concept testing session.](https://images.pexels.com/photos/6476774/pexels-photo-6476774.jpeg?auto=compress&cs=tinysrgb&w=1600)
 

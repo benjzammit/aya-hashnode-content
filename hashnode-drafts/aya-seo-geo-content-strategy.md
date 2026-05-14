@@ -300,7 +300,86 @@ Short answer first.
 
 Every article should include a short answer in the first 100 words. This helps both Google and AI answer engines understand the page.
 
-## 6. Image strategy
+## 6. Publishing and indexation strategy
+
+AYA should publish as fast as quality allows, not according to a fake daily cadence.
+
+The better rule:
+
+> Publish strong, distinct articles in controlled batches. Do not slow down for artificial SEO timing. Do slow down if the articles are repetitive, thin, weakly linked, or not ready for indexing.
+
+### Batch size
+
+For AYA, a good batch is usually 3 to 10 articles.
+
+Use larger batches only when:
+
+- each article targets a distinct search intent
+- each article has a clear answer near the top
+- each article links to 3 to 5 related AYA resources
+- the `/resources` page updates with the new URLs
+- the sitemap updates with the new URLs
+- there are no broken snippets, duplicate titles, or half-finished sections
+
+### Avoid keyword-stuffed clusters
+
+Do not publish many near-duplicate pages around the same intent.
+
+Avoid batches like:
+
+- What is an AI focus group?
+- What are AI focus groups?
+- AI focus groups explained
+- AI focus groups guide
+- AI synthetic focus groups
+
+That can make the library feel thin and repetitive.
+
+Better:
+
+- definition page
+- comparison page
+- accuracy or trust page
+- workflow page
+- template page
+- buyer or market-specific page
+
+Each page should own a different angle.
+
+### Indexing expectations
+
+Do not expect every article to be indexed immediately.
+
+For a normal non-news site, indexing can take several days or more. Google may discover a page quickly but still delay indexing, especially if the page is weakly linked, repetitive, or not clearly differentiated.
+
+Sitemaps matter, but they are suggestions, not guarantees. Internal links matter a lot.
+
+After each batch:
+
+- confirm the resource URLs appear on `/resources`
+- confirm the sitemap includes the new URLs
+- inspect key URLs in Search Console
+- monitor which pages are indexed first
+- watch for "Discovered, currently not indexed" or "Crawled, currently not indexed"
+- improve pages that stall by strengthening internal links, examples, FAQs, and differentiation
+
+### Current release logic after the first six
+
+After the first six published articles, the next controlled release should be 3 to 5 articles, not the entire remaining draft set.
+
+The next release should prioritize distinct intent:
+
+| Article | Strategic reason |
+| --- | --- |
+| Synthetic Respondents vs Synthetic Audiences: What Is the Difference? | Clarifies adjacent terminology after publishing synthetic respondents |
+| AI Market Research for Agencies: How to Test Ideas Before the Pitch | Adds agency buyer intent without waiting for new copy |
+| AI Market Research in Malta: A Practical Guide for Startups, SMEs and Agencies | Builds Malta credibility and local SEO while the broader cluster is fresh |
+| GDPR-Friendly AI Market Research: What EU Teams Should Check | Adds EU trust and responsible AI positioning |
+| Concept Testing Template: How to Compare Ideas Before Launch | Adds practical template traffic and an active-use conversion path |
+
+Hold the UK agency page for the next batch because it overlaps with the broader agency page. Publish it after the broader agency article has had time to settle and after internal links can support the UK-specific angle.
+
+## 7. Image strategy
 
 Use Pexels URLs for now because the current repo already works this way. Include image credit under each image.
 
@@ -329,7 +408,7 @@ Potential diagrams:
 - Human validation ladder
 - Research confidence ladder
 
-## 7. Google Trends validation plan
+## 8. Google Trends validation plan
 
 When live trend research is available, validate these terms per country:
 
@@ -367,7 +446,7 @@ Prioritize topics that show:
 - Dutch or German local-language variants in NL or DE
 - query modifiers like tools, template, cost, alternative, vs, how to
 
-## 8. Editorial rules
+## 9. Editorial rules
 
 AYA should not sound like a generic AI blog.
 
@@ -391,7 +470,7 @@ Do not:
 - use unsupported statistics
 - publish vague articles that could belong to any AI company
 
-## 9. Core positioning line
+## 10. Core positioning line
 
 AYA should own the credible middle ground between slow traditional research and reckless AI guessing.
 

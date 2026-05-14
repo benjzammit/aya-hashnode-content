@@ -32,7 +32,56 @@ It should build stronger clusters around buyer problems:
 - "I need a template or workflow."
 - "I need a market-specific page for my region."
 
-## 2. Recommended next release: Batch 2
+## 2. Publishing cadence principle
+
+Publish as fast as quality allows, but in controlled batches.
+
+Do not slow down for a fake daily SEO cadence. Do slow down when articles are repetitive, thin, weakly linked, or not clearly differentiated.
+
+For AYA, a strong batch usually has 3 to 10 articles. A batch should only go live when:
+
+- each article targets a distinct search intent
+- each article has a clear definition or answer near the top
+- each article links to 3 to 5 related AYA articles
+- the `/resources` page updates automatically
+- the sitemap includes the new URLs
+- there are no broken snippets, duplicate titles, or half-finished sections
+
+The practical reality is that Google may take several days or more to index normal resource pages. Sitemaps help discovery, but internal links and content quality still matter heavily.
+
+After each batch, check Search Console for:
+
+- indexed pages
+- discovered but not indexed pages
+- crawled but not indexed pages
+- early impressions
+- pages that need stronger internal links or clearer differentiation
+
+## 3. Immediate release after the first six
+
+The first six published articles gave AYA a good foundation across AI focus groups, accuracy, synthetic respondents, product testing, and ad testing.
+
+The next move should be a controlled release of five articles from the existing draft set.
+
+| Release order | Article | Strategic role | Why now |
+| --- | --- | --- | --- |
+| 1 | Synthetic Respondents vs Synthetic Audiences: What Is the Difference? | Category clarification | Completes the synthetic respondents mini-cluster |
+| 2 | AI Market Research for Agencies: How to Test Ideas Before the Pitch | Agency buyer intent | Adds commercial intent and connects to ad concept testing |
+| 3 | AI Market Research in Malta: A Practical Guide for Startups, SMEs and Agencies | Malta local SEO | Builds local credibility and ecosystem relevance |
+| 4 | GDPR-Friendly AI Market Research: What EU Teams Should Check | EU trust builder | Adds responsible AI and privacy-oriented trust content |
+| 5 | Concept Testing Template: How to Compare Ideas Before Launch | Practical template traffic | Gives active buyers a copyable workflow |
+
+Hold for the following release:
+
+- AI Market Research for UK Agencies: How to Test Ideas Faster
+
+Reason:
+
+The UK page is useful, but it overlaps with the broader agency page. It should come after the broader agency page is live, internally linked, and giving Google a clearer sense of the agency cluster.
+
+## 4. Recommended new article batch after this release
+
+These are the next 10 net-new articles that make the most strategic sense.
 
 These are the next 10 articles that make the most strategic sense.
 
@@ -49,11 +98,11 @@ These are the next 10 articles that make the most strategic sense.
 | 9 | How to Validate a Value Proposition Before Launch | Product marketing intent | Captures a very common buyer problem |
 | 10 | AI Focus Group Discussion Guide Template | Template plus AI focus cluster | Gives agencies, founders, and insights teams a reusable workflow |
 
-## 3. Why this batch should come next
+## 5. Why this new article batch should come next
 
-Batch 1 established credibility and category definitions.
+The first two releases establish credibility, category definitions, buyer use cases, local relevance, trust content, and templates.
 
-Batch 2 should make the library more commercially useful.
+The next new article batch should make the library more commercially useful.
 
 It adds:
 
@@ -66,7 +115,7 @@ It adds:
 
 This is the best balance between search demand capture and AYA's method-led positioning.
 
-## 4. Detailed article briefs
+## 6. Detailed article briefs
 
 ### 1. How to Run an AI Focus Group Before Launch
 
@@ -328,7 +377,7 @@ Must include:
 - output interpretation
 - human validation next steps
 
-## 5. Batch 3 candidates
+## 7. Later candidates
 
 These should come after Batch 2 unless a commercial opportunity changes priorities.
 
@@ -345,7 +394,7 @@ These should come after Batch 2 unless a commercial opportunity changes prioriti
 | Campaign Route Testing Scorecard | Template traffic |
 | Product Idea Validation Checklist | Template traffic |
 
-## 6. Market-specific roadmap
+## 8. Market-specific roadmap
 
 Market pages should be released more selectively.
 
@@ -401,9 +450,9 @@ Why:
 
 Germany needs trust, caution, and GDPR-aware framing. A responsible guide is better than a hype-led page.
 
-## 7. Publishing recommendation
+## 9. Publishing recommendation for the next new article batch
 
-Publish next in this order:
+After the immediate five-article release, draft and publish the next new articles in this order:
 
 1. How to Run an AI Focus Group Before Launch
 2. Best AI Focus Group Tools: What to Look For
@@ -420,9 +469,9 @@ Reason:
 
 This order deepens the strongest demand cluster first, then adds broader trust content, then captures practical buyer workflows and adjacent terminology.
 
-## 8. Internal linking plan for Batch 2
+## 10. Internal linking plan for the next new article batch
 
-When Batch 2 is drafted, update older posts so the cluster connects both ways.
+When the next new article batch is drafted, update older posts so the cluster connects both ways.
 
 Likely backlink targets:
 
@@ -434,7 +483,7 @@ Likely backlink targets:
 - `synthetic-respondents-vs-synthetic-audiences.md` should link to synthetic users vs personas.
 - `gdpr-friendly-ai-market-research.md` should link to when to use AI in market research and when not to.
 
-## 9. Quality bar for all new roadmap articles
+## 11. Quality bar for all new roadmap articles
 
 Use the writing guide in:
 

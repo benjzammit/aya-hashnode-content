@@ -5,7 +5,7 @@ tags: "ai, research, marketing, analytics, product"
 domain: "aya-blog.hashnode.dev"
 seoTitle: "AI Market Research for Agencies"
 seoDescription: "Agencies can use AI market research to test campaign routes, sharpen strategy, and improve pitch work before ideas reach the client."
-saveAsDraft: true
+saveAsDraft: false
 ---
 ![An agency team reviews campaign ideas and pitch materials around a meeting table.](https://images.pexels.com/photos/3182811/pexels-photo-3182811.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
