@@ -17,6 +17,8 @@ The short answer: AI research is useful when it helps agencies move faster witho
 
 That is especially relevant for strategy, creative, media, social, and brand teams working under tight deadlines.
 
+The useful promise is not "AI will pick the winning ad." It is "the team can see likely friction before the client meeting."
+
 ## Why this matters for UK agencies
 
 The UK has a mature agency and marketing services market. That creates pressure.
@@ -87,6 +89,8 @@ Then evaluate each route against the same criteria.
 This creates a clearer basis for recommendation than a debate about which idea the team likes most.
 
 For example, a UK agency pitching a challenger brand could compare a proof-led route, an emotional route, and a price-friction route before deciding which story deserves the most client attention.
+
+A practical output might say that the emotional route is most distinctive, the proof-led route is safest for client confidence, and the price-friction route needs sharper evidence before it can carry the pitch.
 
 ## What AI focus groups can add
 
@@ -159,6 +163,8 @@ For UK agencies, the practical use case is route comparison before client presen
 
 AYA does not replace strategy, creative judgment, or human research. It helps teams reduce avoidable guesswork earlier in the process.
 
+That gives teams a stronger reason to recommend one route, revise another, and leave weaker options out of the room.
+
 ## Related reading
 
 - [AI Market Research for Agencies: How to Test Ideas Before the Pitch](/resources/ai-market-research-for-agencies)
@@ -168,4 +174,4 @@ AYA does not replace strategy, creative judgment, or human research. It helps te
 
 ## Want to explore this in practice?
 
-If you want to test messaging, concepts, or positioning before heavier spend, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).
+If you want to sharpen a UK agency pitch before client presentation, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).

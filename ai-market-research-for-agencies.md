@@ -17,6 +17,8 @@ The short answer: agencies should use AI research to pressure-test options earli
 
 For creative, media, social, and brand strategy teams, that can be a real advantage.
 
+The commercial pressure is obvious: agencies often need to make a recommendation before they have the time or budget for formal research.
+
 ## Why agencies need faster testing
 
 Agency work often moves under compressed timelines.
@@ -150,6 +152,20 @@ It should not just produce a neat ranking.
 
 The best agency value comes from better questions and sharper revisions.
 
+## A concrete example
+
+Imagine an agency pitching a discount retailer.
+
+The team has three routes:
+
+- a price-led route
+- a family-value route
+- a convenience route
+
+An AYA-style test might show that the price route is clear but expected, the family-value route creates stronger emotional relevance, and the convenience route works only if the proof is specific.
+
+That gives the pitch team a sharper recommendation than "we like route two."
+
 ## Where AYA fits
 
 AYA helps agencies use synthetic audiences to test ideas before the pitch.
@@ -157,6 +173,8 @@ AYA helps agencies use synthetic audiences to test ideas before the pitch.
 That means faster route comparison, better message pressure-testing, and clearer recommendations before client-facing work hardens.
 
 It is not a replacement for strategy or creative judgment. It is a practical layer that helps teams make those judgments with less avoidable guesswork.
+
+For agencies, the value is not another AI content tool. It is a faster way to make the work more defensible before the client sees it.
 
 ## Related reading
 
@@ -167,4 +185,4 @@ It is not a replacement for strategy or creative judgment. It is a practical lay
 
 ## Want to explore this in practice?
 
-If you want to test messaging, concepts, or positioning before heavier spend, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).
+If you want to test a few campaign routes before the next client meeting, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).

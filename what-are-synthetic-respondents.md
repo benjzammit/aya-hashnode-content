@@ -11,6 +11,8 @@ saveAsDraft: false
 
 *Photo via [Pexels](https://www.pexels.com/photo/669622/).*
 
+Teams do not only need audience descriptions. They need audience reactions to specific decisions.
+
 Synthetic respondents are modeled audience participants used to explore likely reactions to ideas, messages, concepts, products, or campaigns.
 
 The short answer: they are not real respondents. They are structured representations of audience types that help teams learn earlier, especially when they need directional feedback before heavier research.
@@ -92,6 +94,22 @@ They can help with:
 
 They are especially useful when a team has several rough ideas and needs to improve them before spending more.
 
+## A concrete example
+
+Imagine an agency testing a landing page message for a new financial services offer.
+
+The synthetic respondent profiles might include:
+
+- a cautious first-time investor
+- a time-poor parent comparing providers
+- a small business owner worried about hidden fees
+
+A useful output would show that the first-time investor needs clearer risk language, the parent responds to simplicity, and the business owner wants proof around cost transparency.
+
+That does not mean those exact people have been interviewed.
+
+It means the team has a more structured way to improve the message before spending more.
+
 ## What they cannot do
 
 Synthetic respondents cannot replace all real respondents.
@@ -164,6 +182,8 @@ That matters because synthetic respondents can easily become generic if they are
 
 AYA's view is that the value comes from better audience models, better questions, better interpretation, and a clear understanding of limits.
 
+The buyer benefit is simple: a team can see likely objections, unclear claims, and segment differences before a weak idea becomes expensive.
+
 ## Related reading
 
 - [What Is a Synthetic Audience?](/resources/what-is-a-synthetic-audience)
@@ -173,4 +193,4 @@ AYA's view is that the value comes from better audience models, better questions
 
 ## Want to explore this in practice?
 
-If you want to test messaging, concepts, or positioning before heavier spend, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).
+If you want to see how different modeled audience types might react to one idea, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).

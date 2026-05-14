@@ -17,6 +17,8 @@ The short answer: compare several creative routes, test the message against the 
 
 That is not about slowing creative work down. It is about avoiding expensive confidence in an idea the audience may read differently.
 
+The buyer pain is direct: once production and media are committed, even obvious message problems become harder to admit and more expensive to fix.
+
 ## Why ad concepts fail
 
 Many ad concepts fail before the media plan starts.
@@ -148,6 +150,20 @@ Possible next steps include:
 
 The value is in revision.
 
+## A concrete example
+
+Imagine a brand testing three ad concepts before a seasonal campaign.
+
+The routes might be:
+
+- **Route A:** lowest price in the category
+- **Route B:** easier family shopping
+- **Route C:** small everyday treats without guilt
+
+A useful early output might show that Route A is clear but interchangeable, Route B explains the benefit fastest, and Route C has emotional pull but needs a more concrete product proof point.
+
+That gives the creative team a better route to develop before production money is spent.
+
 ## When human validation still matters
 
 Use human validation when the spend is high, the audience is hard to model, the category is sensitive, or the campaign carries meaningful brand risk.
@@ -164,6 +180,8 @@ The goal is to make the strongest route sharper and remove weak assumptions earl
 
 That is a practical commercial use case for synthetic audiences: fewer blind bets before bigger campaign commitments.
 
+AYA is not there to replace creative judgment. It is there to make creative judgment less dependent on internal taste alone.
+
 ## Related reading
 
 - [How to Test Messaging Before You Spend on Campaigns](/resources/how-to-test-messaging-before-you-spend-on-campaigns)
@@ -173,4 +191,4 @@ That is a practical commercial use case for synthetic audiences: fewer blind bet
 
 ## Want to explore this in practice?
 
-If you want to test messaging, concepts, or positioning before heavier spend, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).
+If you want to compare ad routes before production or media spend, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).

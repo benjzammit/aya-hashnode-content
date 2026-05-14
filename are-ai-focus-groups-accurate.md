@@ -11,6 +11,8 @@ saveAsDraft: false
 
 *Photo via [Pexels](https://www.pexels.com/photo/7948005/).*
 
+People ask whether AI focus groups are accurate because they are really asking whether they can trust the output enough to make a decision.
+
 AI focus groups can be useful, but they are not accurate in the same way a well-designed survey, live interview, or market experiment can be accurate.
 
 The short answer: AI focus groups are best used for directional learning. They can help teams spot likely reactions, weak claims, confusion, and useful routes to improve. They should not be treated as guaranteed market truth.
@@ -114,6 +116,25 @@ Better questions include:
 
 The more specific the question, the more useful the output.
 
+## A concrete example
+
+Suppose a startup tests three product positioning routes with an AI focus group.
+
+A useful result would not be:
+
+> Route B will win the market.
+
+A useful result would be:
+
+- Route B is the clearest because the audience understands the problem fastest
+- Route C creates curiosity but the main claim sounds hard to believe
+- Route A is safe but too generic to justify switching
+- the team should strengthen proof for Route C or take Route B into human interviews
+
+That is the right level of confidence.
+
+The output improves the next decision without pretending to be final market truth.
+
 ## The stimulus matters
 
 AI focus groups cannot rescue weak stimulus.
@@ -182,6 +203,8 @@ The goal is not to replace all human research.
 
 The goal is to reduce avoidable guesswork before teams commit to bigger spend, heavier research, or launch decisions.
 
+AYA is useful when a team needs to know what looks promising, what looks weak, and what deserves human validation next. That is a stronger claim than "AI knows the market," and it is much more useful.
+
 Used with that level of discipline, AI focus groups can be commercially useful without pretending to be perfect.
 
 ## Related reading
@@ -193,4 +216,4 @@ Used with that level of discipline, AI focus groups can be commercially useful w
 
 ## Want to explore this in practice?
 
-If you want to test messaging, concepts, or positioning before heavier spend, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).
+If you want to pressure-test an idea without overclaiming the result, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).

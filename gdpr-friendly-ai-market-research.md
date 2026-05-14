@@ -17,6 +17,8 @@ The short answer: EU teams should know what data is being used, minimize persona
 
 This article is a practical orientation, not legal advice.
 
+The buyer problem is not only compliance. It is trust. If a team cannot explain how AI research is being used, what data is involved, and what the output means, the research will be hard to defend.
+
 ## Why this matters
 
 EU teams are rightly cautious about AI research.
@@ -167,6 +169,16 @@ Before running AI market research, EU teams should check:
 
 This is the minimum practical standard.
 
+## A concrete example
+
+Imagine an EU product team testing a new onboarding message.
+
+A responsible workflow might use a synthetic audience model based on general segment traits and category context, not uploaded customer records. The team tests three messages, identifies likely confusion, and then decides whether human validation is needed.
+
+That is very different from uploading identifiable customer data into a general AI tool and asking it to predict what those customers will do.
+
+The first workflow is easier to govern. The second creates avoidable privacy and trust questions.
+
 ## Where AYA fits
 
 AYA's position is that AI research should be structured, honest, and responsible.
@@ -174,6 +186,8 @@ AYA's position is that AI research should be structured, honest, and responsible
 For EU teams, that means using synthetic audiences to support earlier learning while being clear about data, privacy, and limits.
 
 The goal is not reckless AI guessing. The goal is credible early research that helps teams reduce avoidable guesswork before bigger commitments.
+
+That trust posture is part of the product value. AYA should help teams move faster without making the research harder to explain.
 
 ## Related reading
 
@@ -184,4 +198,4 @@ The goal is not reckless AI guessing. The goal is credible early research that h
 
 ## Want to explore this in practice?
 
-If you want to test messaging, concepts, or positioning before heavier spend, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).
+If you want to run earlier audience testing with clearer privacy and methodology guardrails, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).

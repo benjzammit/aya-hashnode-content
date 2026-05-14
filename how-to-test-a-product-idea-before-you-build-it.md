@@ -17,6 +17,8 @@ The short answer: a good early product test does not ask whether people "like" t
 
 That kind of testing can save teams from building too much on weak assumptions.
 
+The commercial point is simple: the cheapest time to find a weak product idea is before engineering, design, sales, and launch work start orbiting around it.
+
 ## Why product ideas need pressure before build work
 
 Product teams often move from idea to execution too quickly.
@@ -102,6 +104,20 @@ This helps the team understand what kind of value the audience recognizes fastes
 
 It also prevents the conversation from becoming a vague yes or no.
 
+## A concrete example
+
+Imagine a founder testing a product idea for solo consultants who struggle to collect client feedback.
+
+The team could compare:
+
+- a speed-led concept: get feedback in minutes
+- a confidence-led concept: know what clients really think
+- a workflow-led concept: turn feedback into next actions
+
+An early AYA-style output might show that the speed route is attractive but sounds like a generic productivity promise, while the confidence route creates more urgency because it connects to a painful client relationship problem.
+
+That is the kind of learning that can change what gets built.
+
 ## Use synthetic audiences for early directional learning
 
 Synthetic audiences are useful when the team needs fast feedback before committing to build work.
@@ -172,6 +188,8 @@ That means teams can compare concepts, spot weak assumptions, and improve value 
 
 The promise is practical: reduce avoidable guesswork before bigger commitments.
 
+AYA is especially useful when the team is deciding whether to build, revise, narrow the audience, or take the idea into human interviews.
+
 ## Related reading
 
 - [How to Use Synthetic Audiences for Concept Testing](/resources/how-to-use-synthetic-audiences-for-concept-testing)
@@ -181,4 +199,4 @@ The promise is practical: reduce avoidable guesswork before bigger commitments.
 
 ## Want to explore this in practice?
 
-If you want to test messaging, concepts, or positioning before heavier spend, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).
+If you want to pressure-test one product idea before the next build sprint, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).

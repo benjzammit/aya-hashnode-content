@@ -17,6 +17,8 @@ The short answer: define the objective, audience, concepts, evaluation criteria,
 
 Concept testing is most useful when it creates sharper choices.
 
+The buyer problem is usually not a lack of ideas. It is too many ideas moving forward without enough evidence.
+
 ## Why use a concept testing template
 
 Concept testing often becomes messy because teams skip structure.
@@ -217,6 +219,21 @@ The score is not the whole answer. It is a way to structure discussion.
 
 Always pair scores with written reasoning.
 
+## Example output
+
+A useful concept test should produce a decision-ready summary.
+
+For example:
+
+- **Concept A:** clearest, but too close to category language
+- **Concept B:** strongest audience pull, but needs proof around the main claim
+- **Concept C:** distinctive, but harder to understand quickly
+- **Recommended next step:** revise Concept B, borrow the clearest line from Concept A, and test the improved version with the priority audience
+
+That is much more useful than "Concept B scored highest."
+
+The value is in knowing what to do next.
+
 ## Where AYA fits
 
 AYA helps teams use synthetic audiences to test concepts earlier and more systematically.
@@ -224,6 +241,8 @@ AYA helps teams use synthetic audiences to test concepts earlier and more system
 This template fits the AYA way of working: define the audience, compare ideas, look for friction, improve the strongest route, and validate further when the stakes require it.
 
 The goal is better early learning, not false certainty.
+
+AYA is especially useful when a team needs to compare options before a sprint, pitch, campaign, or stakeholder meeting.
 
 ## Related reading
 
@@ -234,4 +253,4 @@ The goal is better early learning, not false certainty.
 
 ## Want to explore this in practice?
 
-If you want to test messaging, concepts, or positioning before heavier spend, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).
+If you want to use this template on a real concept before your next decision meeting, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).

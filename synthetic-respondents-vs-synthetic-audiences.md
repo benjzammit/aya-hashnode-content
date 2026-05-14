@@ -11,6 +11,8 @@ saveAsDraft: true
 
 *Photo by [fauxels on Pexels](https://www.pexels.com/photo/photo-of-people-near-wooden-table-3184465/).*
 
+Teams often use audience language loosely. That is where AI research gets weak fast.
+
 Synthetic respondents and synthetic audiences are closely related, but they are not the same thing.
 
 The short answer: synthetic respondents are modeled individual participant profiles. Synthetic audiences are structured modeled groups or segments. One helps teams explore participant-style reactions. The other helps teams understand patterns across an audience model.
@@ -185,6 +187,22 @@ Then:
 
 That sequence keeps the method useful and grounded.
 
+## A concrete example
+
+Suppose a product team wants to test a new budgeting app.
+
+Synthetic respondents might include:
+
+- a student trying to control weekly spending
+- a parent managing household costs
+- a freelancer with irregular income
+
+The synthetic audience would be the structured segment around those profiles: budget-conscious users who already feel financial pressure and need clearer control.
+
+The respondent view helps the team hear likely individual objections. The audience view helps the team compare patterns across the group.
+
+That distinction makes the research more useful than a generic persona prompt.
+
 ## Where AYA fits
 
 AYA uses this distinction to keep AI-native research more disciplined.
@@ -192,6 +210,8 @@ AYA uses this distinction to keep AI-native research more disciplined.
 Synthetic respondents help create modeled participant reactions. Synthetic audiences help structure those reactions into a more useful testing layer.
 
 The goal is not more AI output. The goal is better early learning before teams spend more time, money, or stakeholder attention.
+
+That is the commercial difference: AYA helps teams move from "what might a persona say?" to "which idea is clearer, more believable, and more worth validating next?"
 
 ## Related reading
 
@@ -202,4 +222,4 @@ The goal is not more AI output. The goal is better early learning before teams s
 
 ## Want to explore this in practice?
 
-If you want to test messaging, concepts, or positioning before heavier spend, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).
+If you want to compare audience reactions without collapsing everything into generic personas, you can learn more about AYA at [Ask Your Audience](https://www.askyouraudience.ai).
