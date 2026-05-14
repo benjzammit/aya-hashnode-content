@@ -19,6 +19,13 @@ The short answer: synthetic respondents are modeled individual participant profi
 
 That distinction matters if you want AI research to be credible rather than generic.
 
+## Key takeaways
+
+- Synthetic respondents are modeled individual participant profiles.
+- Synthetic audiences are structured modeled groups or segments.
+- Respondents are useful for participant-style reactions. Audiences are better for comparing patterns across a defined segment.
+- The distinction helps teams avoid treating a single simulated reaction as evidence about a whole market.
+
 ## Why the distinction matters
 
 In early AI market research, a lot of terms get used loosely:
@@ -98,6 +105,15 @@ Use synthetic audiences when you want to explore:
 - how routes compare under a repeatable test structure
 
 In simple terms, respondents are the voices. Audiences are the structured group those voices belong to.
+
+## Quick comparison
+
+| Term | Best for | Not good for |
+| --- | --- | --- |
+| Synthetic respondent | Exploring one modeled participant's likely reaction | Claiming segment-level truth |
+| Synthetic audience | Comparing patterns across a modeled group | Replacing direct human evidence |
+| Persona | Describing a target audience | Testing reactions to a specific stimulus |
+| AI focus group | Structured discussion-style testing with modeled participants | Final validation or statistical proof |
 
 ## Why this improves research quality
 
@@ -212,6 +228,28 @@ Synthetic respondents help create modeled participant reactions. Synthetic audie
 The goal is not more AI output. The goal is better early learning before teams spend more time, money, or stakeholder attention.
 
 That is the commercial difference: AYA helps teams move from "what might a persona say?" to "which idea is clearer, more believable, and more worth validating next?"
+
+## FAQ
+
+### What is the difference between synthetic respondents and synthetic audiences?
+
+Synthetic respondents are modeled participant profiles. Synthetic audiences are structured modeled groups or segments used to compare patterns across audience types.
+
+### Are synthetic respondents the same as synthetic audiences?
+
+No. They are related, but they operate at different levels. A respondent is closer to an individual modeled voice. An audience is the structured group around those voices.
+
+### Which is better for concept testing?
+
+Synthetic audiences are usually better for concept testing because teams need to compare patterns across a defined audience, not rely on one modeled reaction.
+
+### Are synthetic respondents real research participants?
+
+No. They are modeled participants. Their output is useful for directional learning, not as a substitute for real respondent data.
+
+### Why does this distinction matter for AYA?
+
+It keeps the method disciplined. AYA is not just asking AI to act like a persona. It structures audience models, stimuli, criteria, and interpretation around the decision.
 
 ## Related reading
 

@@ -19,6 +19,13 @@ It means the workflow itself is designed around what AI makes possible: faster i
 
 That is the key distinction.
 
+## Key takeaways
+
+- AI-native research uses AI as part of the research workflow, not just as a writing or summarization layer.
+- It is most useful for faster iteration, modeled audience exploration, concept testing, and message comparison.
+- AI-native does not mean human-free. Research design, interpretation, and validation still matter.
+- AYA uses AI-native workflows to help teams reduce avoidable guesswork before bigger commitments.
+
 ## A simple definition
 
 A useful definition is:
@@ -26,6 +33,15 @@ A useful definition is:
 > AI-native research is a research workflow built around AI as a core operating layer for exploration, testing, synthesis, and iteration.
 
 That is different from using AI to summarize notes after the real work is already done.
+
+## AI-native research compared with related methods
+
+| Method | Best for | Not good for |
+| --- | --- | --- |
+| AI-native research | Faster exploration, iteration, and structured audience testing | Replacing all human evidence |
+| Traditional research | Direct respondent evidence and formal validation | Rapid early route comparison |
+| Generic AI prompting | Brainstorming and content support | Disciplined research workflow |
+| AI-assisted analysis | Summarizing or coding existing data | Testing ideas before data exists |
 
 ## What makes something AI-native
 
@@ -129,6 +145,16 @@ Real AI-native research should improve:
 - the quality of iteration
 - the usefulness of outputs for actual decisions
 
+For example, a team using AI only to summarize interview transcripts is using AI assistance. A team using synthetic audiences to compare three concepts, revise the strongest route, and prepare better human validation is using a more AI-native research workflow.
+
+## Where AYA fits
+
+AYA's version of AI-native research is built around structured audience testing.
+
+That means defining an audience model, testing real stimuli, comparing routes, surfacing likely objections, and interpreting the output for a decision.
+
+The commercial value is not more AI output. It is faster learning before teams spend more on production, media, product development, or formal research.
+
 ## Final thought
 
 AI-native research is best understood as a new operating model for faster, smarter audience learning.
@@ -137,6 +163,28 @@ It matters when it helps teams make better decisions earlier.
 Not when it simply adds more generated text to the process.
 
 That is the standard worth using.
+
+## FAQ
+
+### What is AI-native research?
+
+AI-native research is a research workflow built around AI as a core operating layer for exploration, testing, synthesis, and iteration.
+
+### How is AI-native research different from AI-assisted research?
+
+AI-assisted research often uses AI after the fact, such as summarizing notes. AI-native research designs the workflow around faster testing and iteration from the start.
+
+### Does AI-native research replace human research?
+
+No. It can improve early learning and preparation, but human research still matters when direct evidence, nuance, or validation is required.
+
+### What are examples of AI-native research?
+
+Examples include synthetic audience testing, AI focus groups, rapid concept comparison, message route testing, and structured objection finding.
+
+### How does AYA use AI-native research?
+
+AYA uses AI-native workflows to help teams test ideas with synthetic audiences before bigger commitments, while keeping limits and validation needs clear.
 
 ## Related reading
 

@@ -19,6 +19,13 @@ If you treat them as direct substitutes, you will probably misuse one of them.
 
 The more useful comparison is this: **what is each method designed to help you learn, and what stage of decision-making are you in?**
 
+## Key takeaways
+
+- Synthetic audiences are useful when teams need fast directional learning before the material is ready for measurement.
+- Surveys are useful when teams need direct, structured responses from real people at scale.
+- The strongest sequence is often synthetic audience testing before surveys.
+- Do not use synthetic audiences as statistical proof, and do not use surveys to rescue unclear concepts.
+
 ## The short answer
 
 Use synthetic audiences when you need:
@@ -34,6 +41,15 @@ Use surveys when you need:
 - evidence that stakeholders recognize as traditional market input
 
 That is the practical difference.
+
+## Quick comparison
+
+| Method | Best for | Not good for |
+| --- | --- | --- |
+| Synthetic audiences | Exploring and improving ideas before measurement | Quantified validation |
+| Surveys | Measuring responses from real people | Iterating rough concepts quickly |
+| Interviews | Deep human context and language | Quantifying preference |
+| Generic AI prompting | Brainstorming | Research-grade audience learning |
 
 ## What surveys do well
 
@@ -150,6 +166,36 @@ The other helps you measure and validate.
 
 The smartest workflow is often not synthetic audiences instead of surveys.
 It is synthetic audiences before surveys.
+
+For example, a team could use synthetic audiences to improve three value proposition routes, remove the weakest one, and then run a survey only on the two clearer options. The survey budget then measures better stimulus.
+
+## Where AYA fits
+
+AYA helps teams use synthetic audiences before measurement so they can enter surveys, interviews, or market tests with stronger material.
+
+The practical value is not avoiding surveys. It is making later surveys less wasteful by improving concepts, questions, and messages first.
+
+## FAQ
+
+### Are synthetic audiences the same as surveys?
+
+No. Synthetic audiences provide modeled directional feedback. Surveys collect structured responses from real people.
+
+### When should synthetic audiences come before surveys?
+
+Use synthetic audiences first when the idea, message, or concept is still rough and the team needs to improve it before measuring.
+
+### When should surveys come before synthetic audiences?
+
+Use surveys when the question is already clear and the team needs direct, quantified responses from real people.
+
+### Can synthetic audiences replace surveys?
+
+Not when the business needs measured respondent data. They can help teams prepare better stimulus before fielding a survey.
+
+### How does AYA support survey work?
+
+AYA can help refine concepts, messages, and questions before teams invest in formal survey research.
 
 ## Related reading
 

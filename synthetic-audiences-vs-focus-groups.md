@@ -21,6 +21,13 @@ That is where the real value sits.
 
 > **AYA perspective:** the useful comparison is not “old research versus new AI.” It is “which method helps this team make the next decision with more confidence and less waste?”
 
+## Key takeaways
+
+- Synthetic audiences are useful for fast early comparison, route screening, and message improvement.
+- Focus groups are useful for direct human discussion, live moderation, and richer context.
+- The strongest workflow is often synthetic audiences before focus groups.
+- Neither method should be treated as automatic truth. Method quality and interpretation matter.
+
 ## The short answer
 
 If you need:
@@ -40,6 +47,15 @@ If you need:
 focus groups still matter.
 
 The strongest teams do not treat this as a winner-takes-all decision. They use each method where it fits.
+
+## Quick comparison
+
+| Method | Best for | Not good for |
+| --- | --- | --- |
+| Synthetic audiences | Fast directional learning and comparing many routes | Direct human evidence or final proof |
+| Focus groups | Real discussion, moderation, and emotional nuance | Rapid iteration across many rough routes |
+| Surveys | Quantified responses across a defined sample | Exploring why an early idea is unclear |
+| AI focus groups | Structured modeled discussion before heavier research | Replacing every traditional method |
 
 ## What synthetic audiences do well
 
@@ -205,6 +221,28 @@ One helps teams move faster in early-stage exploration.
 The other helps teams hear directly from real people when depth and confidence matter most.
 
 The smartest research strategy is not about choosing a side. It is about building a better sequence.
+
+## FAQ
+
+### Are synthetic audiences better than focus groups?
+
+They are better for some early-stage jobs, especially fast comparison and iteration. Focus groups are better when direct human discussion and moderation matter.
+
+### Can synthetic audiences replace focus groups?
+
+Not completely. They can help teams improve ideas before focus groups, but they should not replace direct human research when the decision requires it.
+
+### When should synthetic audiences come first?
+
+Use them first when the team has several rough ideas, limited time, and a need to improve stimulus before human research.
+
+### When should focus groups come first?
+
+Use focus groups first when the topic is sensitive, direct human language is essential, or stakeholder confidence depends on hearing from real participants.
+
+### How does AYA use this sequence?
+
+AYA helps teams use synthetic audiences to compare routes, surface likely objections, and improve material before deeper human validation.
 
 ## Related reading
 

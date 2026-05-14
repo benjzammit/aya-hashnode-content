@@ -19,6 +19,13 @@ That kind of testing can save teams from building too much on weak assumptions.
 
 The commercial point is simple: the cheapest time to find a weak product idea is before engineering, design, sales, and launch work start orbiting around it.
 
+## Key takeaways
+
+- Test the problem, audience, value proposition, objections, and alternatives before you build.
+- Compare multiple product routes instead of asking whether one idea is "good."
+- Use synthetic audiences for early directional learning, then validate with real people when the stakes rise.
+- The goal is not to get certainty. The goal is to improve or kill weak assumptions before they become expensive.
+
 ## Why product ideas need pressure before build work
 
 Product teams often move from idea to execution too quickly.
@@ -37,6 +44,15 @@ Before build work starts, teams should understand:
 - what claims need proof
 
 Early testing will not remove all risk. It can reduce avoidable risk.
+
+## Product idea testing methods compared
+
+| Method | Best for | Not good for |
+| --- | --- | --- |
+| Synthetic audience test | Fast early feedback on concepts, value propositions, and objections | Final demand proof |
+| Founder interviews | Understanding real problems and language | Rapid comparison across many routes |
+| Survey | Measuring structured preference or priority | Fixing unclear early concepts |
+| Landing page test | Observing real behavior | Explaining why an idea is confusing |
 
 ## Start with the audience
 
@@ -189,6 +205,28 @@ That means teams can compare concepts, spot weak assumptions, and improve value 
 The promise is practical: reduce avoidable guesswork before bigger commitments.
 
 AYA is especially useful when the team is deciding whether to build, revise, narrow the audience, or take the idea into human interviews.
+
+## FAQ
+
+### How do you test a product idea before building it?
+
+Define the audience, write the concept clearly, compare several routes, test for clarity and objections, then validate stronger ideas with real people.
+
+### What should a product idea test include?
+
+It should include the target audience, problem, proposed solution, main benefit, proof points, alternatives, and the decision the team needs to make.
+
+### Should you ask people if they like the idea?
+
+Not as the main question. It is more useful to ask what problem the idea solves, what feels unclear, what sounds believable, and what would stop adoption.
+
+### Can AI help validate a startup idea?
+
+AI can help with early directional testing, but it should not be treated as final validation. Use it to improve the idea before human interviews, surveys, or market experiments.
+
+### When should you stop working on a product idea?
+
+Consider stopping or reframing when the audience does not recognize the problem, the benefit is unclear, or the idea needs more proof than the team can realistically provide.
 
 ## Related reading
 

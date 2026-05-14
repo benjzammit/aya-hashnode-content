@@ -20,6 +20,22 @@ And that is where synthetic audiences can be useful.
 
 They give teams a faster way to pressure-test ideas before heavier research or market spend.
 
+## Key takeaways
+
+- Synthetic audiences are useful for testing concepts while the ideas are still changeable.
+- The best concept tests compare multiple routes against the same audience and criteria.
+- Look for clarity, relevance, believability, objections, and what to improve next.
+- Treat the output as directional learning, then validate with real people when the stakes require it.
+
+## Concept testing methods compared
+
+| Method | Best for | Not good for |
+| --- | --- | --- |
+| Synthetic audiences | Fast early concept comparison | Final proof of demand |
+| AI focus group | Discussion-style directional feedback | Statistical validation |
+| Customer interviews | Real language and depth | Screening many rough routes quickly |
+| Survey | Quantifying response to clearer concepts | Fixing vague concepts |
+
 ## What concept testing is really for
 
 Concept testing is not just about asking whether people like an idea.
@@ -32,6 +48,8 @@ A stronger goal is to understand:
 - which route is worth developing further
 
 This is where synthetic audiences can support the process.
+
+For example, a team testing three subscription concepts might learn that the lowest-cost route is clear but forgettable, the premium route is interesting but hard to believe, and the specialist route creates the strongest audience fit. That output tells the team what to revise before launch or human validation.
 
 ## Why use synthetic audiences for concept testing
 
@@ -135,6 +153,34 @@ Synthetic audiences are not useful because they eliminate uncertainty.
 They are useful because they let teams confront uncertainty earlier.
 
 That is what better concept testing should do.
+
+## Where AYA fits
+
+AYA helps teams turn concept testing into a structured workflow: define the audience, compare routes, test the stimulus, identify friction, improve the strongest option, and decide what needs validation next.
+
+That is different from asking a generic AI tool whether it likes an idea. AYA is designed to support a decision, not produce a polished opinion.
+
+## FAQ
+
+### How do you use synthetic audiences for concept testing?
+
+Define the concept, define the audience model, compare multiple routes, ask structured questions, look for friction, revise, and validate with humans when needed.
+
+### What should a concept test ask?
+
+Ask what the concept communicates, what feels clear, what feels weak, what objections appear, which route is strongest, and what should change before launch.
+
+### Can synthetic audiences validate a concept?
+
+They can support early directional validation, but they should not be treated as final proof of demand or real-world behavior.
+
+### Why compare multiple concepts?
+
+Comparison helps reveal what is actually stronger. Testing one idea alone often produces vague reassurance.
+
+### When should you use human validation?
+
+Use human validation when the concept affects major spend, product direction, customer claims, or high-stakes market decisions.
 
 ## Related reading
 

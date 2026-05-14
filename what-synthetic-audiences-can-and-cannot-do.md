@@ -23,6 +23,22 @@ Neither position is useful.
 
 The better question is simpler: **what can synthetic audiences actually do, and where should teams be careful?**
 
+## Key takeaways
+
+- Synthetic audiences can help teams test ideas, messages, and concepts earlier.
+- They are strongest for directional learning, not final market proof.
+- They cannot replace statistically valid research, direct human evidence, legal review, or real-world behavior data.
+- The method is only useful when the audience model, stimulus, questions, and interpretation are disciplined.
+
+## Quick comparison
+
+| Synthetic audiences can help with | Synthetic audiences cannot prove |
+| --- | --- |
+| Which message is clearer | That real customers will buy |
+| Which concept needs more proof | That a campaign will perform |
+| What objections may appear | That a sample is statistically representative |
+| What to improve before human research | That no human validation is needed |
+
 ## What synthetic audiences can do
 
 When built on a defined audience model, synthetic audiences can help teams:
@@ -54,7 +70,7 @@ They are valuable because they help teams reduce weak assumptions before investi
 
 ## What synthetic audiences cannot do
 
-Synthetic audiences should not be treated as a source of guaranteed truth.
+Synthetic audiences should not be treated as a source of final truth.
 
 They cannot:
 - prove how a real market will behave with certainty
@@ -112,6 +128,8 @@ A sensible workflow looks like this:
 
 That approach treats synthetic audiences as a smart layer in the process, not as the whole process.
 
+For example, a team comparing three landing page messages could use a synthetic audience to identify the clearest route and the claim that creates the most skepticism. That does not prove conversion. It gives the team a better version to test with traffic or real users.
+
 ## Common misuse to avoid
 
 Teams usually run into trouble when they:
@@ -143,6 +161,36 @@ But they should be used with the right level of methodological honesty.
 
 The teams that benefit most are not the ones looking for certainty.
 They are the ones looking for a better way to reduce avoidable guesswork.
+
+## Where AYA fits
+
+AYA is built around the responsible middle ground: faster than waiting for every traditional research cycle, but more disciplined than asking a generic AI tool for a simulated opinion.
+
+The AYA workflow is designed to define the audience, test real stimuli, compare routes, surface likely objections, and help teams decide what deserves human validation next.
+
+That is why the most important promise is practical: reduce avoidable guesswork before bigger commitments.
+
+## FAQ
+
+### What can synthetic audiences do?
+
+They can support early concept testing, message comparison, objection finding, campaign route screening, and preparation for human research.
+
+### What can synthetic audiences not do?
+
+They cannot prove real market behavior, replace representative measurement, validate regulated claims, or remove the need for direct human evidence in high-stakes decisions.
+
+### Are synthetic audiences accurate?
+
+They can be useful for directional learning, but they should not be treated as market truth. Their usefulness depends on the model, stimulus, questions, and interpretation.
+
+### When should teams use synthetic audiences?
+
+Use them when ideas are still changeable and the team needs fast learning before production, launch, media spend, or formal research.
+
+### When should teams not rely on synthetic audiences alone?
+
+Do not rely on them alone for major spend, sensitive topics, legal or regulatory claims, pricing decisions, or final customer validation.
 
 ## Related reading
 

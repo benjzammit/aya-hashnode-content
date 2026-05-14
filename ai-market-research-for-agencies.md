@@ -19,6 +19,13 @@ For creative, media, social, and brand strategy teams, that can be a real advant
 
 The commercial pressure is obvious: agencies often need to make a recommendation before they have the time or budget for formal research.
 
+## Key takeaways
+
+- Agencies can use AI market research to compare routes before the pitch, not to fake certainty.
+- The strongest use cases are campaign route testing, message testing, pitch narrative testing, and objection finding.
+- Structured AI research helps reduce internal bias by testing ideas against defined audience models.
+- AYA is useful when agencies need a clearer, more defensible recommendation before client-facing work hardens.
+
 ## Why agencies need faster testing
 
 Agency work often moves under compressed timelines.
@@ -36,6 +43,15 @@ The risk is that ideas move forward because:
 - the pitch needs a confident recommendation
 
 AI market research can help create a better middle step between internal opinion and expensive validation.
+
+## Agency research options compared
+
+| Method | Best for agencies | Not good for |
+| --- | --- | --- |
+| AI market research | Fast route comparison before a pitch | Final proof that a campaign will work |
+| Client workshops | Alignment and stakeholder input | Audience evidence |
+| Traditional qualitative research | Direct audience depth and language | Rapid screening of many rough routes |
+| Generic AI prompting | Brainstorming and critique | Defensible research workflow |
 
 ## What agencies can test
 
@@ -175,6 +191,28 @@ That means faster route comparison, better message pressure-testing, and clearer
 It is not a replacement for strategy or creative judgment. It is a practical layer that helps teams make those judgments with less avoidable guesswork.
 
 For agencies, the value is not another AI content tool. It is a faster way to make the work more defensible before the client sees it.
+
+## FAQ
+
+### How can agencies use AI market research?
+
+Agencies can use AI market research to compare campaign routes, test messaging, identify likely objections, and improve pitch recommendations before client presentation.
+
+### Can AI market research replace client or consumer research?
+
+No. It is most useful as an early testing layer. Direct human research is still needed when the decision requires stronger evidence.
+
+### What should agencies test before a pitch?
+
+Test the route, audience fit, claim believability, distinctiveness, likely objections, proof points, and call to action.
+
+### How is AYA different from generic AI prompting for agencies?
+
+Generic prompting gives a simulated opinion. AYA gives a structured audience-testing workflow with defined audience models, controlled stimuli, consistent criteria, and interpretation for decision-making.
+
+### When should an agency use human validation instead?
+
+Use human validation when the category is regulated, the audience is sensitive, the spend is high, or the client needs direct evidence from real people.
 
 ## Related reading
 

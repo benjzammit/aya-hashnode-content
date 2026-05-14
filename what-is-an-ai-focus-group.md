@@ -19,6 +19,13 @@ The short answer: it is not the same as asking a chatbot for opinions. A useful 
 
 Used well, it helps teams learn earlier. Used badly, it creates polished guesswork.
 
+## Key takeaways
+
+- An AI focus group is a structured way to test ideas with modeled audience participants.
+- It is useful for early concept testing, message testing, campaign route comparison, and likely objection finding.
+- It should be treated as directional decision support, not proof of real market behavior.
+- The difference between useful AI research and generic prompting is the quality of the audience model, stimulus, questions, and interpretation.
+
 ## Why this matters
 
 Many teams need audience feedback before they can justify a bigger decision.
@@ -75,6 +82,15 @@ AYA's view is that the value is not in making AI sound like a room full of peopl
 In other words:
 
 > Not a shortcut to truth. A faster way to reduce avoidable guesswork.
+
+## AI focus groups compared with other methods
+
+| Method | Best for | Not good for |
+| --- | --- | --- |
+| AI focus group | Early directional feedback, route comparison, message sharpening | Final proof, statistical validation, sensitive claims |
+| Traditional focus group | Real human discussion, moderation, emotional nuance | Fast iteration across many rough routes |
+| Survey | Quantified validation across a defined sample | Exploring why an early idea feels unclear |
+| Generic AI prompt | Brainstorming and first-pass critique | Research discipline, controlled comparison, decision evidence |
 
 ## What AI focus groups are useful for
 
@@ -164,7 +180,7 @@ Look for useful patterns, not certainty. The output should improve the next vers
 
 AYA is designed for teams that need a more structured version of this early testing layer.
 
-The difference is not just speed. It is method.
+The difference is not just speed. It is method. Generic AI prompting gives you a simulated opinion. AYA gives you a structured audience-testing workflow: defined audience models, controlled stimuli, consistent evaluation criteria, comparison across routes, and interpretation designed for decision-making.
 
 AYA helps teams define the audience, test a real stimulus, compare routes, surface objections, and decide what needs human validation next.
 
@@ -173,6 +189,32 @@ That makes AI focus groups a practical demand-capture term for what many teams a
 The AYA position is simple:
 
 > Not a shortcut to truth. A faster way to reduce avoidable guesswork.
+
+## FAQ
+
+### What is an AI focus group?
+
+An AI focus group is a structured research workflow that uses modeled audience participants to explore likely reactions to an idea, message, product, or campaign.
+
+### How does an AI focus group work?
+
+It starts with a defined audience, a specific stimulus, and focused questions. The output is then interpreted for patterns, objections, clarity issues, and next-step decisions.
+
+### Are AI focus groups accurate?
+
+They can be useful for directional learning, but they should not be treated as market truth. They are strongest when the goal is to improve the next version of the work.
+
+### Can AI focus groups replace traditional focus groups?
+
+Not completely. They are often useful before traditional focus groups because they help teams improve concepts before spending time and budget on live human research.
+
+### Is an AI focus group the same as asking ChatGPT?
+
+No. A generic prompt can produce a simulated opinion. A useful AI focus group uses audience models, controlled stimuli, consistent criteria, and careful interpretation.
+
+### When should you use an AI focus group?
+
+Use one when you need fast directional feedback on ideas, messages, campaign routes, product concepts, or likely objections before a bigger commitment.
 
 ## Related reading
 

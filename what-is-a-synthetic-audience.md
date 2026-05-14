@@ -19,6 +19,13 @@ That does **not** mean synthetic audiences replace real people or primary resear
 
 > **AYA perspective:** the value of a synthetic audience is not that it magically knows the market. The value is that it gives teams a more structured way to explore likely reactions before spending more on production, media, or formal research.
 
+## Key takeaways
+
+- A synthetic audience is a modeled representation of a target audience used to explore likely reactions.
+- It is useful for early concept testing, message testing, campaign route comparison, and objection finding.
+- It should support directional decisions, not replace every form of human research.
+- AYA treats synthetic audiences as a structured workflow, not as generic AI pretending to be a customer.
+
 ## Why this matters now
 
 Most teams still face the same problem:
@@ -28,6 +35,15 @@ Most teams still face the same problem:
 - generic prompting does not reflect a real target audience
 
 Synthetic audiences sit in the gap between guesswork and traditional research. They give teams a faster way to explore audience reactions before moving into higher-cost validation.
+
+## Synthetic audience compared with other approaches
+
+| Approach | Best for | Not good for |
+| --- | --- | --- |
+| Synthetic audience | Early directional learning and route comparison | Final proof of market behavior |
+| Synthetic respondent | Participant-style reactions from modeled profiles | Segment-level conclusions on its own |
+| Traditional focus group | Direct human depth and moderated discussion | Fast testing across many rough routes |
+| Generic AI prompt | Brainstorming | Disciplined audience research |
 
 ## A better mental model
 
@@ -81,7 +97,7 @@ This is especially useful for marketing, insights, innovation, and strategy team
 
 ## What synthetic audiences are not good for
 
-Synthetic audiences should not be positioned as guaranteed market truth.
+Synthetic audiences should not be positioned as final market truth.
 
 They are not a substitute for:
 - regulatory claims testing
@@ -178,6 +194,30 @@ That includes work like:
 The goal is not to replace every other method.
 
 The goal is to reduce avoidable guesswork.
+
+For example, a product team might test three value propositions with a synthetic audience before deciding which one deserves user interviews. A useful output would identify which route is clearest, which claim needs proof, and which audience objection needs to be solved first.
+
+## FAQ
+
+### What is a synthetic audience?
+
+A synthetic audience is a modeled representation of a target audience used to explore likely reactions to ideas, messages, products, or campaigns.
+
+### Are synthetic audiences real people?
+
+No. They are modeled audience representations. Their output should be treated as directional feedback, not real respondent data.
+
+### What are synthetic audiences useful for?
+
+They are useful for early concept testing, message testing, campaign route comparison, objection finding, and improving stimulus before human validation.
+
+### How are synthetic audiences different from generic AI prompts?
+
+Generic prompts produce broad simulated opinions. Synthetic audiences use defined audience models, structured stimuli, consistent criteria, and decision-focused interpretation.
+
+### Can synthetic audiences replace surveys or focus groups?
+
+No. They can help teams prepare better material for surveys, interviews, or focus groups, but they should not replace direct evidence when the decision requires it.
 
 ## Related reading
 

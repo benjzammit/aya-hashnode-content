@@ -19,6 +19,13 @@ Concept testing is most useful when it creates sharper choices.
 
 The buyer problem is usually not a lack of ideas. It is too many ideas moving forward without enough evidence.
 
+## Key takeaways
+
+- A good concept testing template forces the team to define the objective, audience, concepts, criteria, questions, signals, and next decision.
+- Compare concepts side by side instead of testing one idea in isolation.
+- Look for clarity, relevance, believability, objections, and improvement paths, not only a winner.
+- Use synthetic audiences for early directional comparison, then validate further when stakes are higher.
+
 ## Why use a concept testing template
 
 Concept testing often becomes messy because teams skip structure.
@@ -37,6 +44,15 @@ It makes the team define:
 - how the team will decide next steps
 
 That is useful whether you are testing with synthetic audiences, interviews, surveys, or internal expert review.
+
+## Concept testing methods compared
+
+| Method | Best for | Not good for |
+| --- | --- | --- |
+| Synthetic audience concept test | Fast early comparison and route improvement | Final proof of demand |
+| Customer interviews | Real language, depth, and context | Rapid side-by-side testing of many routes |
+| Survey | Quantifying response to clearer concepts | Exploring unclear rough ideas |
+| Internal review | Expert judgment and feasibility checks | Audience evidence |
 
 ## The template
 
@@ -243,6 +259,28 @@ This template fits the AYA way of working: define the audience, compare ideas, l
 The goal is better early learning, not false certainty.
 
 AYA is especially useful when a team needs to compare options before a sprint, pitch, campaign, or stakeholder meeting.
+
+## FAQ
+
+### What is a concept testing template?
+
+A concept testing template is a structured brief that defines the objective, audience, concepts, evaluation criteria, questions, signals, and next decision.
+
+### What should concept testing measure?
+
+It should measure clarity, relevance, distinctiveness, believability, motivation, likely objections, and what needs to change before launch.
+
+### How many concepts should you compare?
+
+Compare at least two or three routes when possible. Testing one idea alone often produces weaker feedback.
+
+### Can synthetic audiences be used for concept testing?
+
+Yes. They are useful for early directional comparison, especially before heavier human validation or launch decisions.
+
+### What is the output of a good concept test?
+
+A good output explains which route is strongest, why it is stronger, what objections remain, what should be revised, and what needs validation next.
 
 ## Related reading
 

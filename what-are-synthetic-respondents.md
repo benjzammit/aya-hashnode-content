@@ -19,6 +19,13 @@ The short answer: they are not real respondents. They are structured representat
 
 They are most useful when the model is clear, the question is specific, and the output is interpreted with the right level of caution.
 
+## Key takeaways
+
+- Synthetic respondents are modeled audience participants, not real people.
+- They help teams explore likely reactions to ideas, messages, concepts, and campaign routes before heavier research.
+- They are useful for directional learning, especially when a team needs to improve stimulus before testing with humans.
+- They become more credible when they sit inside a structured synthetic audience model instead of a loose persona prompt.
+
 ## Why this term matters
 
 "Synthetic respondents" is becoming a useful bridge term in AI research.
@@ -64,6 +71,15 @@ For example:
 Both can be useful, but they answer slightly different needs.
 
 Synthetic respondents help teams understand individual-style reactions. Synthetic audiences help teams compare structured patterns across a segment.
+
+## Synthetic respondents compared with adjacent terms
+
+| Term | What it usually means | Best used for |
+| --- | --- | --- |
+| Synthetic respondent | A modeled participant profile | Exploring participant-style reactions |
+| Synthetic audience | A structured modeled segment or group | Comparing patterns across audience types |
+| Persona | A static audience description | Alignment and planning |
+| Real respondent | A recruited human participant | Direct evidence and validation |
 
 ## How they relate to human digital twins
 
@@ -183,6 +199,28 @@ That matters because synthetic respondents can easily become generic if they are
 AYA's view is that the value comes from better audience models, better questions, better interpretation, and a clear understanding of limits.
 
 The buyer benefit is simple: a team can see likely objections, unclear claims, and segment differences before a weak idea becomes expensive.
+
+## FAQ
+
+### What are synthetic respondents?
+
+Synthetic respondents are modeled audience participants used to explore likely reactions to a defined idea, message, product, or campaign.
+
+### Are synthetic respondents real people?
+
+No. They are structured representations of audience types. Their output should be treated as modeled feedback, not as real interview data.
+
+### How are synthetic respondents different from personas?
+
+Personas usually describe an audience. Synthetic respondents are used to react to specific stimuli, such as concepts, messages, or campaign routes.
+
+### How are synthetic respondents different from synthetic audiences?
+
+A synthetic respondent is closer to an individual modeled participant. A synthetic audience is the structured group or segment those modeled participants belong to.
+
+### When should teams use synthetic respondents?
+
+Use them when you need early feedback on clarity, relevance, objections, and likely segment differences before committing more time or budget.
 
 ## Related reading
 

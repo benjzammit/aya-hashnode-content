@@ -19,6 +19,13 @@ This article is a practical orientation, not legal advice.
 
 The buyer problem is not only compliance. It is trust. If a team cannot explain how AI research is being used, what data is involved, and what the output means, the research will be hard to defend.
 
+## Key takeaways
+
+- GDPR-friendly AI market research starts with data minimization, clear purpose, and transparent handling of inputs.
+- Synthetic audience testing should be kept distinct from real respondent research.
+- Do not upload unnecessary personal data or present modeled outputs as real human evidence.
+- This article is practical orientation, not legal advice. Legal, privacy, or compliance review may still be needed.
+
 ## Why this matters
 
 EU teams are rightly cautious about AI research.
@@ -28,6 +35,15 @@ Marketing, product, and insights teams want faster ways to test ideas, but they 
 That is especially relevant for teams in the Netherlands, Germany, Malta, and other EU markets where trust and compliance language matters.
 
 AI market research can be useful. But the method needs discipline.
+
+## AI research data choices compared
+
+| Approach | Lower-risk use | Higher-risk issue to check |
+| --- | --- | --- |
+| Synthetic audience testing | Using general segment traits and concept stimulus | Overclaiming modeled output as real evidence |
+| Real respondent research | Collecting direct feedback with consent and care | Consent, lawful basis, retention, and rights |
+| Internal customer data | Using aggregated or anonymized context where appropriate | Identifiability, purpose limitation, and vendor handling |
+| Generic AI tool upload | Brainstorming with non-sensitive material | Unclear training, retention, or access controls |
 
 ## Start with the data question
 
@@ -188,6 +204,28 @@ For EU teams, that means using synthetic audiences to support earlier learning w
 The goal is not reckless AI guessing. The goal is credible early research that helps teams reduce avoidable guesswork before bigger commitments.
 
 That trust posture is part of the product value. AYA should help teams move faster without making the research harder to explain.
+
+## FAQ
+
+### Is AI market research GDPR-friendly?
+
+It can be, but it depends on the data used, the purpose, vendor handling, consent where applicable, and how outputs are interpreted.
+
+### Is synthetic audience testing the same as using real respondent data?
+
+No. Synthetic audience testing uses modeled audience representations. Real respondent data comes from actual people and carries different privacy and consent considerations.
+
+### Can EU teams upload customer data into AI research tools?
+
+Only with appropriate legal, privacy, security, and vendor checks. Many early concept tests do not need identifiable customer data at all.
+
+### What should teams ask AI research vendors?
+
+Ask about training use, retention, deletion, encryption, processing location, subprocessors, access controls, and whether real respondent data is involved.
+
+### Is this legal advice?
+
+No. This is a practical research and governance orientation. EU teams should involve legal or privacy specialists when the decision, data, or category requires it.
 
 ## Related reading
 

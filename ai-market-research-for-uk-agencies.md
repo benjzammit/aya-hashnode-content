@@ -19,6 +19,13 @@ That is especially relevant for strategy, creative, media, social, and brand tea
 
 The useful promise is not "AI will pick the winning ad." It is "the team can see likely friction before the client meeting."
 
+## Key takeaways
+
+- UK agencies can use AI market research to test routes faster before pitch, production, or campaign spend.
+- The method is strongest for route comparison, message clarity, likely objections, and claim believability.
+- It should sharpen strategy and creative judgment, not replace human research or client responsibility.
+- AYA is useful when agencies need a more structured alternative to internal opinion and generic AI prompting.
+
 ## Why this matters for UK agencies
 
 The UK has a mature agency and marketing services market. That creates pressure.
@@ -26,6 +33,15 @@ The UK has a mature agency and marketing services market. That creates pressure.
 Clients expect speed, strategic clarity, and strong creative routes. Teams need to present ideas that feel fresh but also defensible. Research can help, but formal research is not always available before the pitch or early campaign decision.
 
 AI market research can create a practical middle step.
+
+## UK agency use cases compared
+
+| Use case | What AI research can help with | What it should not claim |
+| --- | --- | --- |
+| Pitch route comparison | Identify clearer, stronger, weaker routes | That the market has chosen a winner |
+| Message testing | Find vague claims and likely friction | That conversion will improve |
+| Creative development | Improve the strongest idea before production | That the creative will perform in media |
+| Strategy support | Make recommendations more defensible | That human insight is no longer needed |
 
 It helps agencies ask:
 
@@ -164,6 +180,28 @@ For UK agencies, the practical use case is route comparison before client presen
 AYA does not replace strategy, creative judgment, or human research. It helps teams reduce avoidable guesswork earlier in the process.
 
 That gives teams a stronger reason to recommend one route, revise another, and leave weaker options out of the room.
+
+## FAQ
+
+### How can UK agencies use AI market research?
+
+UK agencies can use it to compare campaign routes, test messaging, identify likely objections, and sharpen pitch recommendations before client presentation or campaign spend.
+
+### Is AI market research suitable for pitch work?
+
+Yes, when it is framed as directional audience testing rather than final proof. It can help agencies arrive with stronger, clearer work.
+
+### Can AI market research replace traditional focus groups?
+
+No. It can come before traditional focus groups to improve stimulus, but human research still matters when direct evidence is needed.
+
+### What should agencies avoid saying to clients?
+
+Avoid saying AI proved the campaign will work, that customers validated the route, or that no further research is needed.
+
+### How is AYA useful for UK agencies?
+
+AYA gives agencies a structured way to define audiences, test stimuli, compare routes, and interpret feedback for decision-making before bigger commitments.
 
 ## Related reading
 

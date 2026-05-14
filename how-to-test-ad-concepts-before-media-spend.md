@@ -19,6 +19,13 @@ That is not about slowing creative work down. It is about avoiding expensive con
 
 The buyer pain is direct: once production and media are committed, even obvious message problems become harder to admit and more expensive to fix.
 
+## Key takeaways
+
+- Test ad concepts before production, media buying, and client sign-off make changes harder.
+- Compare routes side by side so the team can see which idea is clearest, most believable, and most specific.
+- AI focus groups are useful for early directional feedback, not for guaranteeing campaign performance.
+- The most useful output is a clearer route, a sharper claim, and a better list of objections to solve.
+
 ## Why ad concepts fail
 
 Many ad concepts fail before the media plan starts.
@@ -53,6 +60,15 @@ At that stage, the team can still change:
 Once the campaign is produced, sunk cost starts to protect the idea.
 
 Early testing makes it easier to be honest.
+
+## Ad concept testing methods compared
+
+| Method | Best for | Not good for |
+| --- | --- | --- |
+| AI focus group | Fast route comparison and objection finding | Predicting media performance |
+| Human qualitative research | Understanding real audience language and nuance | Testing many rough routes quickly |
+| Survey or copy test | Quantifying response to polished options | Diagnosing early strategic weakness |
+| Live media test | Observing behavior in market | Cheaply fixing the idea before spend |
 
 ## Start with the job of the ad
 
@@ -181,6 +197,28 @@ The goal is to make the strongest route sharper and remove weak assumptions earl
 That is a practical commercial use case for synthetic audiences: fewer blind bets before bigger campaign commitments.
 
 AYA is not there to replace creative judgment. It is there to make creative judgment less dependent on internal taste alone.
+
+## FAQ
+
+### How do you test ad concepts before media spend?
+
+Define the job of the ad, compare several creative routes, test clarity and believability with the intended audience, then improve the strongest route before production.
+
+### What should you test in an ad concept?
+
+Test the promise, headline, visual direction, proof point, call to action, audience relevance, and likely objections.
+
+### Can AI focus groups predict ad performance?
+
+No. They can help improve ideas before spend, but they cannot guarantee click-through rate, conversion, sales, or brand lift.
+
+### Why compare ad routes side by side?
+
+Comparison makes strengths and weaknesses easier to see. It also reduces the risk of choosing a route only because it sounds good in an internal meeting.
+
+### When should human validation be used?
+
+Use human validation when spend is material, the claim is sensitive, the audience is hard to model, or the campaign carries brand or regulatory risk.
 
 ## Related reading
 
