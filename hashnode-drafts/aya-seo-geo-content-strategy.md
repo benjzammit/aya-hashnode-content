@@ -1,5 +1,14 @@
 # AYA SEO and GEO Content Strategy Reference
 
+## Companion editorial docs
+
+Use this strategy file for market, pillar, and topic direction.
+
+Use these companion files for execution:
+
+- `hashnode-drafts/aya-resource-article-writing-guide.md` explains the article structure, SEO/AEO pattern, voice rules, FAQ/table guidance, internal linking rules, and QA checklist.
+- `hashnode-drafts/aya-next-seo-article-roadmap.md` recommends the next article batches and publishing priorities.
+
 ## 1. Strategic diagnosis
 
 AYA is currently building around the language of "synthetic audiences" and "human digital twins." That language is distinctive and important. It makes AYA feel method-led, specific, and more credible than a generic AI research tool.
